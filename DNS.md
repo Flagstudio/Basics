@@ -1,5 +1,13 @@
 # DNS
 
+## Лекция
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F1lLwPHpGco" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Статья в нашем блоге
+
+https://flagstudio.ru/blog/kak-rabotaet-internet-instrumenty-dns-http-redirects-ssl-certificates-domains
+
 ## 3 сетевых точки работы домена 📍
 
 ![](/img/dns_scheme.png)
