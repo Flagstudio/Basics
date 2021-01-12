@@ -4,9 +4,9 @@
 ## Основные большие материалы в нашей доке
 
 - [DNS](http://docs.flagstudio.ru/share/eyJpdiI6IjUxYUplUTN0U0taeU1rZ1pjbFcxNHc9PSIsInZhbHVlIjoiNkQrdkNJMGRxXC9MNjBURDVnV1lVdEFPUHkxbFhGTnUyWm95XC9cL1wvQlJFSEE9IiwibWFjIjoiYjcyOGI4MjU2YjNlZWJlYjg2YmZlNDU3MDAwYWQwZTQ4NDI4M2RiNGUwZDMyMjkxNzRhNzA2MWUzZDJmODc4NiJ9)
-- [HTTP, SSL, Let's Encrypt, редиректы](HTTP.md)
-- [ТЗ и поставновка задач (декомпозиция)](TZ.md)
-- [Основы баз данных](DB.md)
+- [HTTP](http://docs.flagstudio.ru/share/eyJpdiI6IlBIM00zTXZIdytxaHN6NGFpenIxK1E9PSIsInZhbHVlIjoiNWE4K1wvZ1wvTlZLaGdNWDFRVFFBeGV3ckh1UStcL2hcL0t5VmRlRXNPVkRFeEk9IiwibWFjIjoiNzQ3MjEyYmI0NjE4MmI1MzYyYzdkM2RmZDVjNTIwNzRkMDYxOGU1Yjc5ODYzNDJlZjgzNGU3M2NkN2MwZWM5NiJ9)
+- [ТЗ и поставновка задач (декомпозиция)](http://docs.flagstudio.ru/share/eyJpdiI6Im1uN0dLNjhvOHIyZHMrOFVhNHU4UlE9PSIsInZhbHVlIjoiTjFUU2JWdDRlM1dvQ0t1djAyR1h6dGVvbGk1aVEyUzRBQ3NYVnl5aFhcL1k9IiwibWFjIjoiNTYzYmY0NzQ0NjE5ZjFiNmE2OGZiY2U5NThkNWJhNjRiNDE4MTc4MGY1NGZmNGZkNTNjZDVlN2NhZTgwOWMxZiJ9)
+- [Основы баз данных](http://docs.flagstudio.ru/share/eyJpdiI6IlwvSTVyT3ZERDZcL0JXMnlcL3FITFR3eEE9PSIsInZhbHVlIjoiOGljVUd2dThUTmp1MEEzXC9wTGEyeHpObUREQmI5T1FOZzhQQ0dtWGhZd1U9IiwibWFjIjoiZjExMDBkZDY2NmYwNmI2NGExYTJhMDAzZDQzYmI3NDk3Mjc3YzQ1ZWZkMTFmZDRmY2Y1OTI0ZTNlMDJlYWJmYSJ9)
 
 ## Более широкий список, но не менее нужный для работы
 
