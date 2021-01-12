@@ -3,7 +3,7 @@
 
 ## Основные большие материалы в нашей доке
 
-- [DNS и инструменты](DNS.md)
+- [DNS](http://docs.flagstudio.ru/share/eyJpdiI6IjUxYUplUTN0U0taeU1rZ1pjbFcxNHc9PSIsInZhbHVlIjoiNkQrdkNJMGRxXC9MNjBURDVnV1lVdEFPUHkxbFhGTnUyWm95XC9cL1wvQlJFSEE9IiwibWFjIjoiYjcyOGI4MjU2YjNlZWJlYjg2YmZlNDU3MDAwYWQwZTQ4NDI4M2RiNGUwZDMyMjkxNzRhNzA2MWUzZDJmODc4NiJ9)
 - [HTTP, SSL, Let's Encrypt, редиректы](HTTP.md)
 - [ТЗ и поставновка задач (декомпозиция)](TZ.md)
 - [Основы баз данных](DB.md)
